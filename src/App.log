@@ -1,0 +1,6 @@
+[2022-08-25T02:46:07.199733+02:00] nomedocanal.INFO: Esta é uma string de info... [] []
+[2022-08-25T02:46:07.201074+02:00] nomedocanal.WARNING: Isto é um warning... [] []
+[2022-08-25T02:46:07.201180+02:00] nomedocanal.ERROR: Esta é uma msg de erro. [] []
+[2022-08-25T02:46:07.206051+02:00] nomedocanal.INFO: Esta é uma string de info... [] []
+[2022-08-25T02:46:07.207075+02:00] nomedocanal.WARNING: Isto é um warning... [] []
+[2022-08-25T02:46:07.207124+02:00] nomedocanal.ERROR: Esta é uma msg de erro. [] []
