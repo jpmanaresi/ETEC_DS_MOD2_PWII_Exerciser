@@ -1,0 +1,15 @@
+{
+    "name": "admin/projetocadpessoa",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Projetocadpessoa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jpmanaresi",
+            "email": "jpmanaresi@gmail.com"
+        }
+    ],
+    "require": {}
+}
